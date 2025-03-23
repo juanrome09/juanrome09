@@ -12,7 +12,6 @@
 
 <p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
-
 # I'm Juan Romero
 - 🔭 C𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚖𝚢 𝚗𝚎𝚡𝚝 𝚙𝚒𝚎𝚌𝚎 𝚘𝚏 𝚙𝚞𝚣𝚣𝚕𝚎 𝚊𝚝 **𝟺𝟸 𝙼𝚊𝚍𝚛𝚒𝚍.**
 - 🌱 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙲** 𝚊𝚜 𝙸 𝚐𝚘, 𝚝𝚞𝚛𝚗𝚒𝚗𝚐 𝚎𝚊𝚌𝚑 **𝚎𝚛𝚛𝚘𝚛 𝚒𝚗𝚝𝚘 𝚊 𝚕𝚎𝚜𝚜𝚘𝚗.**
